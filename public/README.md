@@ -44,7 +44,7 @@ Info
     sprites
     utilities
     widgets
-    <span style="color: red;">_settings.scss</span>
+    &lt;span style="color: red;"&gt;_settings.scss&lt;/span&gt;
     _style.scss
     style-ar.scss
     style-en.scss
