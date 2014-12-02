@@ -63,5 +63,31 @@ $block-grid-media-queries: true;
 
 
 <h2>Pagination</h2>
+
+<p>
+Add a <code>.pagination</code> class to a <code>ul </code>to get started, then add list items with links or buttons in them.</p>
+
+- Create arrows by adding an <code>.arrow</code> class to the first and last list items.
+- To mark the current page, add a <code>.current</code> class to a list item.
+- Add a class of <code>.unavailable</code> to a list item to make it not clickable, like for the ellipsis in the middle.
+</p>
+
+<pre>
+<span>&lt;ul class="pagination"&gt;</span>
+  <span>&lt;li class="arrow unavailable"&gt;</span><a href="">&laquo;<span>&lt;/a><span>&lt;/li&gt;</span>
+  <span>&lt;li class="current"&gt;</span><a href=""&gt;</span>1<span>&lt;/a><span>&lt;/li&gt;</span>
+  <span>&lt;li&gt;</span><span>&lt;a href=""&gt;</span>2<span>&lt;/a&gt;</span><span>&lt;/li&gt;</span>
+  <span>&lt;li&gt;</span><span>&lt;a href=""&gt;</span>3<span>&lt;/a&gt;</span><span>&lt;/li&gt;</span>
+  <span>&lt;li&gt;</span><span>&lt;a href=""&gt;</span>4<span>&lt;/a&gt;</span><span>&lt;/li&gt;</span>
+  <span>&lt;li class="unavailable"><span>&lt;a href=""&gt;</span>&hellip;<span>&lt;/a><span>&lt;/li&gt;</span>
+  <span>&lt;li&gt;</span><span>&lt;a href=""&gt;</span>12<span>&lt;/a&gt;</span><span>&lt;/li&gt;</span>
+  <span>&lt;li&gt;</span><span>&lt;a href=""&gt;</span>13<span>&lt;/a&gt;</span><span>&lt;/li&gt;</span>
+  <span>&lt;li class="arrow"&gt;</span><span>&lt;a href="">&raquo;<span>&lt;/a><span>&lt;/li&gt;</span>
+<span>&lt;/ul&gt;</span>
+
+
+  </pre>
+
+
 <h2>Typo</h2>
 <h2>Visibility</h2>
