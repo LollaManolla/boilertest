@@ -96,19 +96,18 @@ block-grid elements, default spacing, align to grid.
 
 
 
-<h3>Hacks</h3>
-- for quick fixes or any fixes, keep it here
 
-##scss style writing:
+<h2>Styles to follow</h2>
+
+<h3>How you should write SCSS?</h3>
 * set grid
 * set visibility
 * set style
 * set media 
 
-##use of values 
-* rem for fonts
-* rem for line height
-* px for margins/paddings
+<h3>How you should use units?</h3>
+* <strong>REM</strong>: for fonts, line height
+* <strong>PX</strong>: for margins/paddings
 
 ## media can have values
 * @media #{$small-only} {}
