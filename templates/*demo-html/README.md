@@ -10,6 +10,27 @@ Start by adding an element with a class of row. This will create a horizontal bl
 
 <section class="container">
     <div class="row">
+        <div class="three">
+            <p>My three column content</p>
+        </div>
+
+        <div class="two">
+            <p>My two column content</p>
+        </div>
+
+        <div class="four">
+            <p>My four column content</p>
+        </div>
+
+        <div class="three last">
+            <p>My last column, which spans 3 columns and is the last in the row which adds up to 12</p>
+        </div>
+    </div>
+</section>
+
+
+<section class="container">
+    <div class="row">
       <div class="small-2 large-4 columns">small-2 large-4 columns</div>
       <div class="small-4 large-4 columns">small-2 large-4 columns</div>
       <div class="small-6 large-4 columns">small-2 large-4 columns</div>
