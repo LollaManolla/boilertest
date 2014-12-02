@@ -93,10 +93,6 @@ block-grid elements, default spacing, align to grid.
 </li>
 </ol>
 
-
-
-
-
 <h2>Styles to follow</h2>
 
 <h3>How you should write SCSS?</h3>
@@ -106,8 +102,10 @@ block-grid elements, default spacing, align to grid.
 * set media 
 
 <h3>How you should use units?</h3>
-* <strong>REM</strong>: for fonts, line height
-* <strong>PX</strong>: for margins/paddings
+* <strong>REM</strong>: fonts, line height
+* <strong>PX</strong>: margins, paddings
+
+
 
 ## media can have values
 * @media #{$small-only} {}
