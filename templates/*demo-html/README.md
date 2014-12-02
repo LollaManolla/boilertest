@@ -18,10 +18,10 @@ Start by adding an element with a class of row. This will create a horizontal bl
 </pre>
 
 
-<p><strong><em>Customize with Sass</em></strong></p>
-<p>Customizing the grid is easy with the Sass variables provided in the <code>_settings.scss</code> file.</p>
+<p><strong>Customize with Sass</strong><br>
+Customizing the grid is easy with the Sass variables provided in the <code>_settings.scss</code> file.</p>
 
-<h5>SCSS</h5>
+<h6>SCSS</h6>
 <pre>
 $row-width: rem-calc(1000);<br>
 $column-gutter: rem-calc(30);<br>
@@ -33,6 +33,20 @@ $total-columns: 12 ;
 
 
 <h2>Block grid</h2>
+<p>Block grids should be used when you need to create a row of evenly split contents within the grid. For example, a row of five images or paragraphs that need to stay evenly spaced no matter the screen size is good example on when you should use block grid.</p>
+
+<pre>
+<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+  <li><!-- Your content goes here --></li>
+  <li><!-- Your content goes here --></li>
+  <li><!-- Your content goes here --></li>
+  <li><!-- Your content goes here --></li>
+  <li><!-- Your content goes here --></li>
+  <li><!-- Your content goes here --></li>
+</ul>
+
+
+</pre>
 <h2>Pagination</h2>
 <h2>Typo</h2>
 <h2>Visibility</h2>
