@@ -26,7 +26,14 @@ Diwanee Web Framework (DWF)
 - NAVESTI JS FAJLOVE<br>
   </p>
 
-<h2>Usage</h2>
+<h2>How to use</h2>
+
+
+
+<p>Download source</p>
+<p>Start by reading inline comments in source code</p>
+
+
 <p>Setup is pretty easy and DWF comes with some tools to help you test your development environment.</p>
 
 <h3>Initial Setup</h3>
