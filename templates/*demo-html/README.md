@@ -8,7 +8,6 @@ Info
 <p>Folder <code>scss</code> holds few most important settings. These settings are in following folders and file:<br>
   - bi-app folder<br>
   - core folder <br>
-  - sprites folder <br>
   - _settings.scss file
 </p>
 
