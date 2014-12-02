@@ -5,37 +5,26 @@ Diwanee Web Framework (DWF)
 
   <h2>Features</h2>
   <p>Common styles for<br>
-- Responsive grid<br>
-- Responsive typography<br>
-- Responsive pagination<br>
-- Responsive Block grid<br>
-- Helper classes (visibility, etc.)<br>
-- Media query starting points<br>
-- Comprehensive CSS reset thanks to Normalize.css<br>
-- The latest jQuery<br>
+- Base settings (default body and html values)<br>
+- Grid<br>
+- Global (font, colors)<br>
+- Media Query Ranges<br>
+- Typography<br>
+- Block Grid<br>
+- Pagination<br>
+- Visibility Classes<br>
 - HTML5 starting point<br>
 - Various optimizations and goodies (robots.txt, humans.txt, .htaccess, crossdomain policy, etc.)<br>
+- Various JS files for faster browsing and better optimization<br>
   </p>
 
-
-<h2>Components</h2>
-  <p>This framework use code from the following projects<br>
-- jQuery 1.9.1<br>
-- Normalize.css CSS 'reset'<br>
-- SCSS support<br>
-- NAVESTI JS FAJLOVE<br>
-  </p>
 
 <h2>How to use</h2>
-
-
-
 <p>Download source</p>
 <p>Start by reading inline comments in source code</p>
 
 
 <p>Setup is pretty easy and DWF comes with some tools to help you test your development environment.</p>
-
 <h3>Initial Setup</h3>
 <ol>
 <li>Download and extract the files to where you want to start developing or do a git clone git://github.com/....</li>
