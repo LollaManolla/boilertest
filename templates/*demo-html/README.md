@@ -126,5 +126,10 @@ Add a <code>.pagination</code> class to a <code>ul </code>to get started, then a
 <span class="tag">&lt;<span class="title">p</span> <span class="attribute">class</span>=<span class="value">"text-center"</span>&gt;</span><span class="comment">&lt;!-- text goes here --&gt;</span><span class="tag">&lt;/<span class="title">p</span>&gt;</span>
 <span class="tag">&lt;<span class="title">p</span> <span class="attribute">class</span>=<span class="value">"text-justify"</span>&gt;</span><span class="comment">&lt;!-- text goes here --&gt;</span><span class="tag">&lt;/<span class="title">p</span>&gt;</span></div></code></pre>
 
+<h5>Links</h5>
+<h6>HTML</h6>
+<pre>
+<p>Links are very standard, and the <a href="http://www.youtube.com/watch?v=zT2aVoUkSDg">color is preset</a> to the Foundation primary color.</p>
+</pre>
 
 <h2>Visibility</h2>
