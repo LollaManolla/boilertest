@@ -12,9 +12,9 @@ Start by adding an element with a class of row. This will create a horizontal bl
 
   <code>
 <div class="row">
-  <div class="small-2 large-4 columns">...</div>
-  <div class="small-4 large-4 columns">...</div>
-  <div class="small-6 large-4 columns">...</div>
+  <div class="small-2 large-4 columns">small-2 large-4 columns</div>
+  <div class="small-4 large-4 columns">small-2 large-4 columns</div>
+  <div class="small-6 large-4 columns">small-2 large-4 columns</div>
 </div>
 </code>
 
