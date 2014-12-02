@@ -221,10 +221,12 @@ Add a <code>.pagination</code> class to a <code>ul </code>to get started, then a
   Nullam id dolor id nibh ultricies vehicula ut id elit.<span class="tag">&lt;/<span class="title">dd</span>&gt;</span>
 <span class="tag">&lt;/<span class="title">dl</span>&gt;</span></div></code></pre>
 
+    For more details and instructions go to http://foundation.zurb.com/docs/components/typography.html
+    
  <p><strong>Customize with Sass</strong><br>
     Customizing the typography is easy with the Sass variables provided in the <code>_settings.scss</code> file.</p>
 
-    For more details and instructions go to http://foundation.zurb.com/docs/components/typography.html
+
 
 <h2>Visibility</h2>
 
