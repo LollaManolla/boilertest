@@ -9,7 +9,9 @@ Demo
 Start by adding an element with a class of row. This will create a horizontal block to contain vertical columns. Then add divs with a column class within that row. You can use column or columns - the only difference is grammar. Specify the widths of each column with the small-#, medium-#, and large-# classes.</p>
 
 
-<div class="highlight highlight-html"><pre>&lt;<span class="pl-ent">section</span> <span class="pl-e">class</span>=<span class="pl-s1"><span class="pl-pds">"</span>container<span class="pl-pds">"</span></span>&gt;
+<div class="highlight highlight-html">
+  <pre>&lt;<span class="pl-ent">section</span> 
+    <span class="pl-e">class</span>=<span class="pl-s1"><span class="pl-pds">"</span>container<span class="pl-pds">"</span></span>&gt;
     &lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s1"><span class="pl-pds">"</span>row<span class="pl-pds">"</span></span>&gt;
         &lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s1"><span class="pl-pds">"</span>three<span class="pl-pds">"</span></span>&gt;
             &lt;<span class="pl-ent">p</span>&gt;My three column content&lt;/<span class="pl-ent">p</span>&gt;
@@ -30,13 +32,15 @@ Start by adding an element with a class of row. This will create a horizontal bl
 &lt;/<span class="pl-ent">section</span>&gt;</pre></div>
 
 
-<section class="container">
+<pre>
+
+  <span>div class="row" </span>
     <div class="row">
       <div class="small-2 large-4 columns">small-2 large-4 columns</div>
       <div class="small-4 large-4 columns">small-2 large-4 columns</div>
       <div class="small-6 large-4 columns">small-2 large-4 columns</div>
     </div>
-</section>
+</pre>
 
 
 <h4>Customize with Sass</h4>
