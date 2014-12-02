@@ -117,7 +117,7 @@ Add a <code>.pagination</code> class to a <code>ul </code>to get started, then a
 <h6>HTML</h6>
 <pre>
 
-<span>&lt;p&gt;</span>This is a paragraph. Paragraphs are preset with a font size, line height and spacing to <br>match the overall vertical rhythm. To show what a paragraph looks like this needs a little more<br> content so, did you know that there are storms occurring on Jupiter that are larger than the Earth? Pretty cool. Wrap strong around type to <span>&lt;strong&gt;</span>make it bold!<span>&lt;/strong&gt;</span>. You can also use em to <span>&lt;em&gt;</span>italicize your words<span>&lt;/em&gt;</span>.<span>&lt;/p&gt;</span>
+<span>&lt;p&gt;</span>This is a paragraph. Paragraphs are preset with a font size, line height and spacing to <br>match the overall vertical rhythm. To show what a paragraph looks like this needs a little more<br>content so, did you know that there are storms occurring on Jupiter that are larger than the Earth? <br>Pretty cool. Wrap strong around type to <span>&lt;strong&gt;</span>make it bold!<span>&lt;/strong&gt;</span>. <br>You can also use em to <span>&lt;em&gt;</span>italicize your words<span>&lt;/em&gt;</span>.<span>&lt;/p&gt;</span>
 </pre>
 
 
