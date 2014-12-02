@@ -1,7 +1,7 @@
 Info
 ==========
 
-<h2>Default settings</h2>
+<h3>Default settings - where can you change it</h3>
 
 <pre><code>
   assets/
