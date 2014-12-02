@@ -42,6 +42,7 @@ $total-columns: 12 ;
   <span>&lt;li&gt;</span>Your content goes here <span>&lt;/li&gt;</span>
   <span>&lt;li&gt;</span>Your content goes here <span>&lt;/li&gt;</span>
 <span>&lt;/ul&gt;</span>
+</pre>
 
 <p><strong>Customize with Sass</strong><br>
   Customizing the grid is easy with the Sass variables provided in the <code>_settings.scss</code> file.</p>
@@ -60,7 +61,7 @@ $block-grid-media-queries: true;
 <p>For more details and instructions go to http://foundation.zurb.com/docs/components/block_grid.html</p>
 
 
-</pre>
+
 <h2>Pagination</h2>
 <h2>Typo</h2>
 <h2>Visibility</h2>
