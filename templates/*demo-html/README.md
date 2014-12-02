@@ -14,7 +14,7 @@ Start by adding an element with a class of row. This will create a horizontal bl
   &nbsp;<span>&lt;div class="small-2 large-4 columns"&gt;</span>
   &nbsp; &nbsp;<span>&lt;div class="small-4 large-4 columns"&gt;</span>
   &nbsp; &nbsp; &nbsp;<span>&lt;div class="small-6 large-4 columns"&gt;</span>
-<span>&lt;/div&gt;</span>
+&nbsp; <span>&lt;/div&gt;</span>
 </pre>
 
 
