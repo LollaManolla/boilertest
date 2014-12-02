@@ -14,7 +14,7 @@ Info
 
 
 
-<h2>Settings</h2>
+<h5>File <code>_settings.scss</code></h5>
 <p>Use _settings.scss to change <strong>global</strong> values: <p>
   <ol><li>Base <br>
   <blockquote>The only value you could change here is default html and body font-size. <br>
