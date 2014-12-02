@@ -44,6 +44,10 @@ Info
     sprites
     utilities
     widgets
+    <code>_settings.scss</code>
+    _style.scss
+    style-ar.scss
+    style-en.scss
 </code></pre>
 
 <p><strong>Files marked with bold should not be changed. </strong>They hold just functions,  not <strong>settings and settings options </strong> for framework. These options <strong>are in </strong> file <code>_settings.scss</code></p>
