@@ -4,12 +4,13 @@ Info
 <h2>Default settings</h2>
 
 <pre><code>
-  assests/
+  assets/
     css
     images/
       large
       medium
       small
+
   js/
     app.js
     base64.min.js
@@ -17,6 +18,7 @@ Info
     thumbor.js
     ua-parser.min.js
     ua.js
+    
   scss/
     ads
     <strong>bi-app/
