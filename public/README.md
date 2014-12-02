@@ -3,12 +3,39 @@ Info
 
 <h2>Default settings</h2>
 
-<pre><code>scss/
+<pre><code>
+  assests/
+    css
+    images/
+      large
+      medium
+      small
+  js/
+    app.js
+    base64.min.js
+    hrl.js
+    thumbor.js
+    ua-parser.min.js
+    ua.js
+  scss/
     ads
-    <strong>bi-app</strong>
+    <strong>bi-app/
+          bi-app-ltr.scss
+          _bi-app-rtl.scss
+          _mixins.scss
+          _variables-ltr.scss
+          _variables-rtl.scss</strong>
     blocks
     components
-    <strong>core</strong>
+    <strong>core /
+        _block-grid.scss
+        _functions.scss
+        _global.scss
+        _grid.scss
+        _pagination.scss
+        _typo.scss
+        _visibility.scss
+    </strong>
     layout
     media-object
     pages
