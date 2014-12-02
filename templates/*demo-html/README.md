@@ -94,12 +94,12 @@ Add a <code>.pagination</code> class to a <code>ul </code>to get started, then a
 <h4>Headers</h4>
 <h6>HTML</h6>
 <pre>
-<h1>h1. This is a very large header.</h1>
-<h2>h2. This is a large header.</h2>
-<h3>h3. This is a medium header.</h3>
-<h4>h4. This is a moderate header.</h4>
-<h5>h5. This is a small header.</h5>
-<h6>h6. This is a tiny header.</h6>
+<span&gt;</span>&lt;h1&gt;</span>h1. This is a very large header.<span&gt;</span>&lt;/h1&gt;</span>
+<span&gt;</span>&lt;h2&gt;</span>h2. This is a large header.<span&gt;</span>&lt;/h2&gt;</span>
+<span&gt;</span>&lt;h3&gt;</span>h3. This is a medium header.<span&gt;</span>&lt;/h3&gt;</span>
+<span&gt;</span>&lt;h4&gt;</span>h4. This is a moderate header.<span&gt;</span>&lt;/h4&gt;</span>
+<span&gt;</span>&lt;h5&gt;</span>h5. This is a small header.<span&gt;</span>&lt;/h5&gt;</span>
+<span&gt;</span>&lt;h6&gt;</span>h6. This is a tiny header.<span&gt;</span>&lt;/h6&gt;</span>
 </pre>
 
 
