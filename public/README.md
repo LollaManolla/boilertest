@@ -1,6 +1,20 @@
-<h1>Notes</h1>
+Info
+==========
 
-<h3>Settings</h3>
+<h2>Default settings</h2>
+
+<p>Folder <code>scss</code> holds few most important settings. These settings are in following folders and file:<br>
+  - bi-app folder<br>
+  - core folder <br>
+  - sprites folder <br>
+  - _settings.scss file
+</p>
+
+<p><strong>Files in this folders should not be changed. </strong>They hold just functions,  not <strong>settings and settings options </strong> for framework. These settings <strong>are set in </strong> file <code>_settings.scss</code></p>
+
+
+
+<h2>Settings</h2>
 <p>Use _settings.scss to change <strong>global</strong> values: <p>
   <ol><li>Base <br>
   <blockquote>The only value you could change here is default html and body font-size. <br>
