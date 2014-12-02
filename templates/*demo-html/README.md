@@ -35,9 +35,8 @@ Start by adding an element with a class of row. This will create a horizontal bl
 <pre>
 
 
-  <span> &lt;</span> 
-  <span>div class="row"</span>
-  <span> > </span> 
+  <span> &lt; div class="row" &gt;</span>
+
 
 
     <div class="row">
