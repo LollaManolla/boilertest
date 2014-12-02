@@ -36,7 +36,7 @@ $total-columns: 12 ;
 <p>Block grids should be used when you need to create a row of evenly split contents within the grid. For example, a row of five images or paragraphs that need to stay evenly spaced no matter the screen size is good example on when you should use block grid.</p>
 
 <pre>
-<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+<span>&lt;ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4"&gt;</span>
   <li><!-- Your content goes here --></li>
   <li><!-- Your content goes here --></li>
   <li><!-- Your content goes here --></li>
