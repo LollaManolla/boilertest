@@ -3,6 +3,20 @@ Info
 
 <h2>Default settings</h2>
 
+<pre><code>scss/
+    ads
+    <strong>bi-app</strong>
+    blocks
+    components
+    <strong>core</strong>
+    layout
+    media-object
+    pages
+    sprites
+    utilities
+    widgets
+</code></pre>
+
 <p>Folder <code>scss</code> holds few most important settings. These settings are in following folders and file:<br>
   - bi-app folder<br>
   - core folder <br>
