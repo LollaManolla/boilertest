@@ -213,6 +213,13 @@ Add a <code>.pagination</code> class to a <code>ul </code>to get started, then a
   <span class="tag">&lt;<span class="title">li</span>&gt;</span>List item<span class="tag">&lt;/<span class="title">li</span>&gt;</span>
  <span class="tag">&lt;/<span class="title">ol</span>&gt;</span></div></code></pre>
 
+
+<h6>HTML</h6>
+<pre><code class="language-html"><div class="code-container"><span class="tag">&lt;<span class="title">dl</span>&gt;</span>
+  <span class="tag">&lt;<span class="title">dt</span>&gt;</span>Definition Title<span class="tag">&lt;/<span class="title">dt</span>&gt;</span>
+  <span class="tag">&lt;<span class="title">dd</span>&gt;</span>Definition Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit.<span class="tag">&lt;/<span class="title">dd</span>&gt;</span>
+<span class="tag">&lt;/<span class="title">dl</span>&gt;</span></div></code></pre>
+
  <p><strong>Customize with Sass</strong><br>
     Customizing the typography is easy with the Sass variables provided in the <code>_settings.scss</code> file.</p>
 
