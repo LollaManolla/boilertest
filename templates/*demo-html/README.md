@@ -10,7 +10,7 @@ Start by adding an element with a class of row. This will create a horizontal bl
 
 <section class="container">
     <div class="row">
-        <div class="three">
+        <div class="small-2 large-4 columns">
             <p>My three column content</p>
         </div>
 
