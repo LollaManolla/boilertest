@@ -91,7 +91,7 @@ Add a <code>.pagination</code> class to a <code>ul </code>to get started, then a
 
 <h2>Typo</h2>
 
-<h4>Headers</h4>
+<h5>Headers</h5>
 <h6>HTML</h6>
 <pre>
 <span&gt;</span>&lt;h1&gt;</span>h1. This is a very large header.<span&gt;</span>&lt;/h1&gt;</span>
@@ -102,7 +102,7 @@ Add a <code>.pagination</code> class to a <code>ul </code>to get started, then a
 <span&gt;</span>&lt;h6&gt;</span>h6. This is a tiny header.<span&gt;</span>&lt;/h6&gt;</span>
 </pre>
 
-<h4>Subheader</h4>
+<h5>Subheader</h5>
 <h6>HTML</h6>
 <pre>
 <span>&lt;h1 class="subheader"&gt;</span>h1.subheader<span>&lt;/h1&gt;</span>
@@ -112,6 +112,14 @@ Add a <code>.pagination</code> class to a <code>ul </code>to get started, then a
 <span>&lt;h5 class="subheader"&gt;</span>h5.subheader<span>&lt;/h5&gt;</span>
 <span>&lt;h6 class="subheader"&gt;</span>h6.subheader<span>&lt;/h6&gt;</span>
 </pre>
+
+<h5>Paragraphs</h5>
+<h6>HTML</h6>
+<pre>
+
+<span>&lt;p&gt;</span>This is a paragraph. Paragraphs are preset with a font size, line height and spacing to match the overall vertical rhythm. To show what a paragraph looks like this needs a little more content so, did you know that there are storms occurring on Jupiter that are larger than the Earth? Pretty cool. Wrap strong around type to <span>&lt;strong&gt;</span>make it bold!<span>&lt;/strong&gt;</span>. You can also use em to <span>&lt;em&gt;</span>italicize your words<span>&lt;/em&gt;</span>.<span>&lt;/p&gt;</span>
+</pre>
+
 
 
 <h2>Visibility</h2>
