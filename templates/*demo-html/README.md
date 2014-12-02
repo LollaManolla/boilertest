@@ -74,7 +74,7 @@ Add a <code>.pagination</code> class to a <code>ul </code>to get started, then a
 
 <pre>
 <span>&lt;ul class="pagination"&gt;</span>
-  <span>&lt;li class="arrow unavailable"&gt;</span><a href="">&laquo;<span>&lt;/a><span>&lt;/li&gt;</span>
+  <span>&lt;li class="arrow unavailable"&gt;</span><a href="">&laquo;<span>&lt;/a&gt;</span><span>&lt;/li&gt;</span>
   <span>&lt;li class="current"&gt;</span><a href=""&gt;</span>1<span>&lt;/a><span>&lt;/li&gt;</span>
   <span>&lt;li&gt;</span><span>&lt;a href=""&gt;</span>2<span>&lt;/a&gt;</span><span>&lt;/li&gt;</span>
   <span>&lt;li&gt;</span><span>&lt;a href=""&gt;</span>3<span>&lt;/a&gt;</span><span>&lt;/li&gt;</span>
