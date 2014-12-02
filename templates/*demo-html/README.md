@@ -224,4 +224,10 @@ Add a <code>.pagination</code> class to a <code>ul </code>to get started, then a
  <p><strong>Customize with Sass</strong><br>
     Customizing the typography is easy with the Sass variables provided in the <code>_settings.scss</code> file.</p>
 
+    <p>For more details and instructions go to http://foundation.zurb.com/docs/components/typography.html</p>
+
 <h2>Visibility</h2>
+<p>Visibility classes let you show or hide elements based on screen size or device orientation. You can use visibility classes to control which elements users 
+  see depending on their browsing environment.</p>
+
+  <p>For more details and instructions go to http://foundation.zurb.com/docs/components/visibility.html</p>
