@@ -14,8 +14,7 @@ Info
 
 
 
-<h5>How to use file  _settings.scss</h5>
-==========
+<h6>How to use file  _settings.scss</h6>
 
 <p>Use _settings.scss to change <strong>global</strong> values: <p>
   <ol><li>Base <br>
