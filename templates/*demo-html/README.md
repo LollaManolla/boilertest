@@ -5,14 +5,14 @@ Info
 
 <h1>Default settings</h1>
 
-<p>Folder<code>scss</code>holds few most important settings. These settings are in following folders and file:
-  - bi-app folder
-  - core folder 
-  - sprites folder 
+<p>Folder <code>scss</code> holds few most important settings. These settings are in following folders and file:
+  - bi-app folder<br>
+  - core folder <br>
+  - sprites folder <br>
   - _settings.scss file
 </p>
 
-<p>Files in folders should not be changed. They hold just functions not settings and settings options for framework. These settings are set in file <core>_settings.scss</core></p>
+<p><strong>Files in this folders should not be changed. </strong>They hold just functions,  not <strong>settings and settings options </strong> for framework. These settings <strong>are set in </strong> file <core>_settings.scss</core></p>
 
 
 <h1>Default classes</h1>
