@@ -102,5 +102,16 @@ Add a <code>.pagination</code> class to a <code>ul </code>to get started, then a
 <span&gt;</span>&lt;h6&gt;</span>h6. This is a tiny header.<span&gt;</span>&lt;/h6&gt;</span>
 </pre>
 
+<h4>Subheader</h4>
+<h6>HTML</h6>
+<pre>
+<span>&lt;h1 class="subheader"&gt;<span>&lt;/span>h1.subheader<span>&lt;/h1&gt;<span>&lt;/span>
+<span>&lt;h2 class="subheader"&gt;<span>&lt;/span>h2.subheader<span>&lt;/h2&gt;<span>&lt;/span>
+<span>&lt;h3 class="subheader"&gt;<span>&lt;/span>h3.subheader<span>&lt;/h3&gt;<span>&lt;/span>
+<span>&lt;h4 class="subheader"&gt;<span>&lt;/span>h4.subheader<span>&lt;/h4&gt;<span>&lt;/span>
+<span>&lt;h5 class="subheader"&gt;<span>&lt;/span>h5.subheader<span>&lt;/h5&gt;<span>&lt;/span>
+<span>&lt;h6 class="subheader"&gt;<span>&lt;/span>h6.subheader<span>&lt;/h6&gt;<span>&lt;/span>
+</pre>
+
 
 <h2>Visibility</h2>
