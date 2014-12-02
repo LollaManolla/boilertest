@@ -52,35 +52,34 @@ Info
 
 <h6>What can you change in  _settings.scss?</h6>
 
-<p>Use _settings.scss to change <strong>global</strong> values: <p>
   <ol><li>Base <br>
   <blockquote>default html and body font-size. </blockquote>
   </li>
 <li>Grid <br>
-<blockquote>Set number of columns, gutter and row<blockquote></li>
+<blockquote>number of columns, gutter and row<blockquote></li>
  <li>Global<br>
   <blockquote>
-    Define default stacks for fonts and colors 
+    default stacks for fonts and colors 
 </blockquote>
   </li>
 <li>Media Query Ranges<br>
 <blockquote>
-Set media break rules.
+media break rules.
 </blockquote>
 </li>
  <li>Typography
 <blockquote>
-Define global variables and settings for headings, paragraphs, anchors, hr, lists
+global variables and settings for headings, paragraphs, anchors, hr, lists
 </blockquote>
  </li>
  <li>Block Grid<br>
 <blockquote>
-Set block-grid elements, default spacing, align to grid.
+block-grid elements, default spacing, align to grid.
 </blockquote>
  </li>
 <li>Pagination<br>
 <blockquote>
-  Set style for pagination. * Note that float needs to be set depending on language left/right.
+  style pagination. <small>*Note that float needs to be set depending on language left/right.</small>
 <blockquote>
 </li>
 <li> Visibility Classes<br>
