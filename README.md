@@ -1,6 +1,5 @@
-boilertest
+Diwanee Web Framework
 ==========
-<p>Diwanee Web Framework</p>
 
 <p>This framework is quick-start kit to get your website or app front-end up and running quickly. It's HTML5 ready, comes with a bunch of useful and common JavaScript functionality, it has SCSS support.<p>
 
