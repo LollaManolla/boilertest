@@ -213,7 +213,7 @@ Add a <code>.pagination</code> class to a <code>ul </code>to get started, then a
   <span class="tag">&lt;<span class="title">li</span>&gt;</span>List item<span class="tag">&lt;/<span class="title">li</span>&gt;</span>
  <span class="tag">&lt;/<span class="title">ol</span>&gt;</span></div></code></pre>
 
-
+   <p>For more details and instructions go to </p>
 <h6>HTML</h6>
 <pre><code class="language-html"><div class="code-container"><span class="tag">&lt;<span class="title">dl</span>&gt;</span>
   <span class="tag">&lt;<span class="title">dt</span>&gt;</span>Definition Title<span class="tag">&lt;/<span class="title">dt</span>&gt;</span>
@@ -221,7 +221,7 @@ Add a <code>.pagination</code> class to a <code>ul </code>to get started, then a
   Nullam id dolor id nibh ultricies vehicula ut id elit.<span class="tag">&lt;/<span class="title">dd</span>&gt;</span>
 <span class="tag">&lt;/<span class="title">dl</span>&gt;</span></div></code></pre>
 
-    <p>For more details and instructions go to </p>
+ 
 
  <p><strong>Customize with Sass</strong><br>
     Customizing the typography is easy with the Sass variables provided in the <code>_settings.scss</code> file.</p>
