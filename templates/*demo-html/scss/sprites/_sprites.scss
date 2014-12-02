@@ -1,0 +1,41 @@
+//all sprites are placed here
+
+// set sprites options - for sprite map or sprite : see compass docs
+@import "compass/utilities/sprites";
+$small-layout:vertical;
+$small-repeat: no-repeat; 
+$small-spacing: 30px;
+
+
+$medium-layout:vertical;
+$medium-repeat: no-repeat; 
+$medium-spacing: 30px;
+
+$large-layout:vertical;
+$large-repeat: no-repeat; 
+$large-spacing: 30px;
+$large-position-x:-100%;
+$large-position-y:-100%;
+
+
+////////sprites for small devices
+@media #{$small-only} {
+   //@import "small/*.png";
+}
+
+
+////////sprites for medium up devices
+@media #{$medium-up} {
+   //@import "medium/*.png";
+}
+
+
+/////////sprites for large devices
+@media #{$large-up} {
+   //@import "large/*.png";
+}
+
+//example 
+//  .yourclass { 
+//      @include small-sprite (your-image-name);
+//    }

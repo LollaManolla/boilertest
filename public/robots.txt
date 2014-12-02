@@ -1,0 +1,6 @@
+User-agent: *
+User-agent: Baiduspider
+Disallow: /
+
+User-Agent: MJ12bot
+Disallow:
