@@ -12,7 +12,7 @@ Info
   - _settings.scss file
 </p>
 
-<p><strong>Files in this folders should not be changed. </strong>They hold just functions,  not <strong>settings and settings options </strong> for framework. These settings <strong>are set in </strong> file <core>_settings.scss</core></p>
+<p><strong>Files in this folders should not be changed. </strong>They hold just functions,  not <strong>settings and settings options </strong> for framework. These settings <strong>are set in </strong> file <code>_settings.scss</code></p>
 
 
 <h1>Default classes</h1>
