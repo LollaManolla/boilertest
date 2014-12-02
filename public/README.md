@@ -46,16 +46,15 @@ Info
     widgets
 </code></pre>
 
-<p><strong>Files marked with bold should not be changed. </strong>They hold just functions,  not <strong>settings and settings options </strong> for framework. These settings <strong>are set in </strong> file <code>_settings.scss</code></p>
+<p><strong>Files marked with bold should not be changed. </strong>They hold just functions,  not <strong>settings and settings options </strong> for framework. These options <strong>are in </strong> file <code>_settings.scss</code></p>
 
 
 
-<h6>How to use file  _settings.scss</h6>
+<h6>What can you change in  _settings.scss?</h6>
 
 <p>Use _settings.scss to change <strong>global</strong> values: <p>
   <ol><li>Base <br>
-  <blockquote>The only value you could change here is default html and body font-size. <br>
-    Althought, it is recommended to leave everything as it is in this section and not touch anything. </blockquote>
+  <blockquote>default html and body font-size. </blockquote>
   </li>
 <li>Grid <br>
 <blockquote>Set number of columns, gutter and row<blockquote></li>
@@ -76,17 +75,17 @@ Define global variables and settings for headings, paragraphs, anchors, hr, list
  </li>
  <li>Block Grid<br>
 <blockquote>
-Only thing that could be change gere is varibale:$align-block-grid-to-grid. You can set this to true if you need.
+Set block-grid elements, default spacing, align to grid.
 </blockquote>
  </li>
 <li>Pagination<br>
 <blockquote>
-  Set style for pagination. Note that float needs to be set depending on language left/right.
+  Set style for pagination. * Note that float needs to be set depending on language left/right.
 <blockquote>
 </li>
 <li> Visibility Classes<br>
 <blockquote>
-  No need to change anything. We use this classes to show or hide elements on different devices.
+  Turn on or off visibility classes.
 </blockquote>
 </li>
 </ol>
