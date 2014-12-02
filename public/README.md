@@ -44,7 +44,7 @@ Info
     sprites
     utilities
     widgets
-    <code>_settings.scss</code>
+    <pre>_settings.scss</pre>
     _style.scss
     style-ar.scss
     style-en.scss
