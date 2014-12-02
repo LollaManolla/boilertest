@@ -1,9 +1,21 @@
-Demo
+Info
 ==========
 
-<p>This demo represents the use of predefined classes in framework and how to use them</p>
+<p>This demo explains how to use default settings and default defined classes.</p>
+
+<h1>Default settings</h1>
+
+<p>Folder<code>scss</code>holds few most important settings. These settings are in following folders and file:
+  - bi-app folder
+  - core folder 
+  - sprites folder 
+  - _settings.scss file
+</p>
+
+<p>Files in folders should not be changed. They hold just functions not settings and settings options for framework. These settings are set in file <core>_settings.scss</core></p>
 
 
+<h1>Default classes</h1>
 <h2>Grid</h2>
 <p>
 Start by adding an element with a class of row. This will create a horizontal block to contain vertical columns. Then add divs with a column class within that row. You can use column or columns - the only difference is grammar. Specify the widths of each column with the small-#, medium-#, and large-# classes.</p>
