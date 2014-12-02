@@ -19,7 +19,7 @@ Start by adding an element with a class of row. This will create a horizontal bl
 
 
 <h4>Customize with Sass</h4>
-
+==========
 <p>Customizing the grid is easy with the Sass variables provided in the <code>_settings.scss</code> file.</p>
 <h6>SCSS</h6>
 <pre>
