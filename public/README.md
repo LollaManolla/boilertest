@@ -18,7 +18,7 @@ Info
     thumbor.js
     ua-parser.min.js
     ua.js
-    
+
   scss/
     ads
     <strong>bi-app/
@@ -46,13 +46,7 @@ Info
     widgets
 </code></pre>
 
-<p>Folder <code>scss</code> holds few most important settings. These settings are in following folders and file:<br>
-  - bi-app folder<br>
-  - core folder <br>
-  - _settings.scss file
-</p>
-
-<p><strong>Files in this folders should not be changed. </strong>They hold just functions,  not <strong>settings and settings options </strong> for framework. These settings <strong>are set in </strong> file <code>_settings.scss</code></p>
+<p><strong>Files marked with bold should not be changed. </strong>They hold just functions,  not <strong>settings and settings options </strong> for framework. These settings <strong>are set in </strong> file <code>_settings.scss</code></p>
 
 
 
