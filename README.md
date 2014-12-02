@@ -1,4 +1,4 @@
-Diwanee Web Framework (DWF)
+Diwanee framework
 ==========
 
 <p>This framework is quick-start kit to get your website or app front-end up and running quickly. It's HTML5 ready, comes with a bunch of useful and common JavaScript functionality, it has SCSS support.<p>
@@ -6,7 +6,8 @@ Diwanee Web Framework (DWF)
   <h2>Features</h2>
   <p>Common styles for<br>
 - Base settings (default body and html values)<br>
-- Grid<br>
+- Grid, Zurb Foundation functionality and syntax<br>
+- LTR & RTL support, Bi-lingual<br>
 - Global (font, colors)<br>
 - Media Query Ranges<br>
 - Typography<br>
@@ -20,5 +21,7 @@ Diwanee Web Framework (DWF)
 
 
 <h2>How to use</h2>
-<p>Download source</p>
-<p>Start by reading inline comments in source code</p>
+- Download source
+- Read documentation in Read me files 
+- Find useful comments in source code
+- Use with Diwanee Harmony CMS
