@@ -116,10 +116,15 @@ Add a <code>.pagination</code> class to a <code>ul </code>to get started, then a
 <h5>Paragraphs</h5>
 <h6>HTML</h6>
 <pre>
-
 <span>&lt;p&gt;</span>This is a paragraph. Paragraphs are preset with a font size, line height and spacing to <br>match the overall vertical rhythm. To show what a paragraph looks like this needs a little more<br>content so, did you know that there are storms occurring on Jupiter that are larger than the Earth? <br>Pretty cool. Wrap strong around type to <span>&lt;strong&gt;</span>make it bold!<span>&lt;/strong&gt;</span>. <br>You can also use em to <span>&lt;em&gt;</span>italicize your words<span>&lt;/em&gt;</span>.<span>&lt;/p&gt;</span>
 </pre>
 
+<h5>Text Align Classes</h5>
+<h6>HTML</h6>
+<pre><code class="language-html"><div class="code-container"><span class="tag">&lt;<span class="title">p</span> <span class="attribute">class</span>=<span class="value">"text-left"</span>&gt;</span><span class="comment">&lt;!-- text goes here --&gt;</span><span class="tag">&lt;/<span class="title">p</span>&gt;</span>
+<span class="tag">&lt;<span class="title">p</span> <span class="attribute">class</span>=<span class="value">"text-right"</span>&gt;</span><span class="comment">&lt;!-- text goes here --&gt;</span><span class="tag">&lt;/<span class="title">p</span>&gt;</span>
+<span class="tag">&lt;<span class="title">p</span> <span class="attribute">class</span>=<span class="value">"text-center"</span>&gt;</span><span class="comment">&lt;!-- text goes here --&gt;</span><span class="tag">&lt;/<span class="title">p</span>&gt;</span>
+<span class="tag">&lt;<span class="title">p</span> <span class="attribute">class</span>=<span class="value">"text-justify"</span>&gt;</span><span class="comment">&lt;!-- text goes here --&gt;</span><span class="tag">&lt;/<span class="title">p</span>&gt;</span></div></code></pre>
 
 
 <h2>Visibility</h2>
