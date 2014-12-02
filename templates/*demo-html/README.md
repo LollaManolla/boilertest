@@ -9,23 +9,7 @@ Demo
 Start by adding an element with a class of row. This will create a horizontal block to contain vertical columns. Then add divs with a column class within that row. You can use column or columns - the only difference is grammar. Specify the widths of each column with the small-#, medium-#, and large-# classes.</p>
 
 <section class="container">
-    <div class="row">
-        <div class="small-2 large-4 columns">
-            <p>My three column content</p>
-        </div>
-
-        <div class="two">
-            <p>My two column content</p>
-        </div>
-
-        <div class="four">
-            <p>My four column content</p>
-        </div>
-
-        <div class="three last">
-            <p>My last column, which spans 3 columns and is the last in the row which adds up to 12</p>
-        </div>
-    </div>
+fdgfd
 </section>
 
 
