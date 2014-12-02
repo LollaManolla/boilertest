@@ -1,16 +1,43 @@
 Info
 ==========
 
-<p>This demo explains how to use default settings and default defined classes.</p>
+<h3>Default settings - where can you change it</h3>
 
-<h1>Default settings</h1>
+<pre><code>
+  assets/
+    css
+    images/
+      large
+      medium
+      small
 
-<pre><code>scss/
+  js/
+    app.js
+    base64.min.js
+    hrl.js
+    thumbor.js
+    ua-parser.min.js
+    ua.js
+
+  scss/
     ads
-    bi-app
+    <strong>bi-app/
+          bi-app-ltr.scss
+          _bi-app-rtl.scss
+          _mixins.scss
+          _variables-ltr.scss
+          _variables-rtl.scss</strong>
     blocks
     components
-    core
+    <strong>core /
+        _block-grid.scss
+        _functions.scss
+        _global.scss
+        _grid.scss
+        _pagination.scss
+        _typo.scss
+        _visibility.scss
+    </strong>
     layout
     media-object
     pages
@@ -19,13 +46,49 @@ Info
     widgets
 </code></pre>
 
-<p>Folder <code>scss</code> holds few most important settings. These settings are in following folders and file:<br>
-  - bi-app folder<br>
-  - core folder <br>
-  - _settings.scss file
-</p>
+<p><strong>Files marked with bold should not be changed. </strong>They hold just functions,  not <strong>settings and settings options </strong> for framework. These options <strong>are in </strong> file <code>_settings.scss</code></p>
 
-<p><strong>Files in this folders should not be changed. </strong>They hold just functions,  not <strong>settings and settings options </strong> for framework. These settings <strong>are set in </strong> file <code>_settings.scss</code></p>
+
+
+<h6>What can you change in  _settings.scss?</h6>
+
+  <ol><li>Base <br>
+  <blockquote>default html and body font-size. </blockquote>
+  </li>
+<li>Grid <br>
+<blockquote>number of columns, gutter and row<blockquote></li>
+ <li>Global<br>
+  <blockquote>
+    default stacks for fonts and colors 
+</blockquote>
+  </li>
+<li>Media Query Ranges<br>
+<blockquote>
+media break rules.
+</blockquote>
+</li>
+ <li>Typography
+<blockquote>
+global variables and settings for headings, paragraphs, anchors, hr, lists
+</blockquote>
+ </li>
+ <li>Block Grid<br>
+<blockquote>
+block-grid elements, default spacing, align to grid.
+</blockquote>
+ </li>
+<li>Pagination<br>
+<blockquote>
+  style pagination. <small>*Note that float needs to be set depending on language left/right.</small>
+<blockquote>
+</li>
+<li> Visibility Classes<br>
+<blockquote>
+  Turn on or off visibility classes.
+</blockquote>
+</li>
+</ol>
+
 
 
 <h1>Default classes</h1>
