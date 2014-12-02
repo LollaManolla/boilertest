@@ -84,10 +84,13 @@ Add a <code>.pagination</code> class to a <code>ul </code>to get started, then a
   <span&gt;</span>&lt;li&gt;</span><span&gt;</span>&lt;a href=""&gt;</span>13<span&gt;</span>&lt;/a&gt;</span><span&gt;</span>&lt;/li&gt;</span>
   <span&gt;</span>&lt;li class="arrow"&gt;</span><span&gt;</span>&lt;a href=""&gt;</span>&raquo;<span&gt;</span>&lt;/a&gt;</span><span&gt;</span>&lt;/li&gt;</span>
 <span&gt;</span>&lt;/ul&gt;</span>
-
-
   </pre>
+
+<p>For more details and instructions go to http://foundation.zurb.com/docs/components/pagination.html</p>
 
 
 <h2>Typo</h2>
+
+
+
 <h2>Visibility</h2>
