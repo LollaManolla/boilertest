@@ -37,10 +37,10 @@ $total-columns: 12 ;
 
 <pre>
 <span>&lt;ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4"&gt;</span>
-  <span>&lt;li&gt;</span><!-- Your content goes here --><span>&lt;/li&gt;</span>
-  <span>&lt;li&gt;</span><!-- Your content goes here --><span>&lt;/li&gt;</span>
-  <span>&lt;li&gt;</span><!-- Your content goes here --><span>&lt;/li&gt;</span>
-  <span>&lt;li&gt;</span><!-- Your content goes here --><span>&lt;/li&gt;</span>
+  <span>&lt;li&gt;</span>Your content goes here<span>&lt;/li&gt;</span>
+  <span>&lt;li&gt;</span>Your content goes here --><span>&lt;/li&gt;</span>
+  <span>&lt;li&gt;</span>Your content goes here --><span>&lt;/li&gt;</span>
+  <span>&lt;li&gt;</span>Your content goes here --><span>&lt;/li&gt;</span>
   <span>&lt;li&gt;</span><!-- Your content goes here --><span>&lt;/li&gt;</span>
   <span>&lt;li&gt;</span><!-- Your content goes here --><span>&lt;/li&gt;</span>
 <span>&lt;/ul&gt;</span>
