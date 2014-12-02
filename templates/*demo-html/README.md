@@ -73,17 +73,17 @@ Add a <code>.pagination</code> class to a <code>ul </code>to get started, then a
 </p>
 
 <pre>
-<span>&lt;ul class="pagination"&gt;</span>
-  <span>&lt;li class="arrow unavailable"&gt;</span><a href="">&laquo;<span>&lt;/a&gt;</span><span>&lt;/li&gt;</span>
-  <span>&lt;li class="current"&gt;</span><a href=""&gt;</span>1<span>&lt;/a><span>&lt;/li&gt;</span>
-  <span>&lt;li&gt;</span><span>&lt;a href=""&gt;</span>2<span>&lt;/a&gt;</span><span>&lt;/li&gt;</span>
-  <span>&lt;li&gt;</span><span>&lt;a href=""&gt;</span>3<span>&lt;/a&gt;</span><span>&lt;/li&gt;</span>
-  <span>&lt;li&gt;</span><span>&lt;a href=""&gt;</span>4<span>&lt;/a&gt;</span><span>&lt;/li&gt;</span>
-  <span>&lt;li class="unavailable"><span>&lt;a href=""&gt;</span>&hellip;<span>&lt;/a><span>&lt;/li&gt;</span>
-  <span>&lt;li&gt;</span><span>&lt;a href=""&gt;</span>12<span>&lt;/a&gt;</span><span>&lt;/li&gt;</span>
-  <span>&lt;li&gt;</span><span>&lt;a href=""&gt;</span>13<span>&lt;/a&gt;</span><span>&lt;/li&gt;</span>
-  <span>&lt;li class="arrow"&gt;</span><span>&lt;a href="">&raquo;<span>&lt;/a><span>&lt;/li&gt;</span>
-<span>&lt;/ul&gt;</span>
+<ul class="pagination">
+  <li class="arrow unavailable"><a href="">&laquo;</a></li>
+  <li class="current"><a href="">1</a></li>
+  <li><a href="">2</a></li>
+  <li><a href="">3</a></li>
+  <li><a href="">4</a></li>
+  <li class="unavailable"><a href="">&hellip;</a></li>
+  <li><a href="">12</a></li>
+  <li><a href="">13</a></li>
+  <li class="arrow"><a href="">&raquo;</a></li>
+</ul>
 
 
   </pre>
