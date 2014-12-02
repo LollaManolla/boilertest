@@ -18,10 +18,10 @@ Start by adding an element with a class of row. This will create a horizontal bl
 </pre>
 
 
-<h4>Customize with Sass</h4>
-====================
+<p><strong><em>Customize with Sass</em></strong></p>
 <p>Customizing the grid is easy with the Sass variables provided in the <code>_settings.scss</code> file.</p>
-<h6>SCSS</h6>
+
+<h5>SCSS</h5>
 <pre>
 $row-width: rem-calc(1000);<br>
 $column-gutter: rem-calc(30);<br>
