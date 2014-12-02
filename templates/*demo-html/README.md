@@ -9,20 +9,22 @@ Demo
 Start by adding an element with a class of row. This will create a horizontal block to contain vertical columns. Then add divs with a column class within that row. You can use column or columns - the only difference is grammar. Specify the widths of each column with the small-#, medium-#, and large-# classes.</p>
 
 
-<pre>
+<div class="highlight highlight-html">
+  <pre>
 <div class="row">
   <div class="small-2 large-4 columns">...</div>
   <div class="small-4 large-4 columns">...</div>
   <div class="small-6 large-4 columns">...</div>
 </div>
-  </pre>
+</pre>
+  </div>
 
-  <pre>
+  <code>
     <div class="row">
   <div class="large-4 columns">...</div>
   <div class="large-8 columns">...</div>
 </div>
-</pre>
+</code>
 
 <h3>Customize with Sass</h3>
 
