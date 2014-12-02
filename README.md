@@ -6,18 +6,18 @@ boilertest
 
   <h2>Features</h2>
 
-  <ul>Common styles for
-<li>Responsive grid</li>
-<li>Responsive typography</li>
-<li>Responsive pagination</li>
-<li>Responsive Block grid</li>
-<li>Helper classes (visibility, etc.)</li>
-<li>Media query starting points</li>
-<li>Comprehensive CSS reset thanks to Normalize.css</li>
-<li>The latest jQuery</li>
-<li>HTML5 starting point</li>
-<li>Various optimizations and goodies (robots.txt, humans.txt, .htaccess, crossdomain policy, etc.)</li>
-  </ul>
+  <p>Common styles for<br>
+- Responsive grid<br>
+- Responsive typography<br>
+- Responsive pagination<br>
+- Responsive Block grid<br>
+- Helper classes (visibility, etc.)<br>
+- Media query starting points<br>
+- Comprehensive CSS reset thanks to Normalize.css<br>
+- The latest jQuery<br>
+- HTML5 starting point<br>
+- Various optimizations and goodies (robots.txt, humans.txt, .htaccess, crossdomain policy, etc.)<br>
+  </p>
 
 
 
