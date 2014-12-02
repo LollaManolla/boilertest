@@ -37,7 +37,7 @@ Diwanee Web Framework (DWF)
   </ol>
 
 
-  <h3>The Grid</h3>t
+  <h3>The Grid</h3>
 
 <p>The DWF grid is based on foundation grid - http://foundation.zurb.com/docs/components/grid.html</p>
 
@@ -49,10 +49,11 @@ Diwanee Web Framework (DWF)
 
 .row - This is is the holder for your columns. Again, no content goes in them, only your columns. You can place as many rows as you want within your .container. This class spans 1140px by default or any width you define in .grid.less or grid.scss and is always centered in the browser window.
 
-The .one through .twelve classes are your columns. That's where your content goes. The grid supports twelve columns. The elements in your .row should add up to 12 with the last column in your .row having a .last class.
+The .one through .twelve classes are your columns. That's where your content goes. The grid supports twelve columns. The elements in your .row should add up to 12 with the last column in your .row having a .last class.</p>
 
-Example:</p>
+<h5>Example:</h5>
 
+<pre>
 <section class="container">
     <div class="row">
         <div class="three">
@@ -72,4 +73,13 @@ Example:</p>
         </div>
     </div>
 </section>
+</pre>
 
+<p>The important things to notice here is that the column class names should always add up to 12 and that the very last column in a row needs to have the .last class added to it or the last element will fail to float properly. For those who have never seen an element with multiple classes, don't worry. It is perfectly acceptible to have multiple classes on the same HTML element. In fact, you can have as many as you want separated by spaces. It is not invalid markup at all. That said, its generally not a good idea to have elements with multiple classes everywhere unless its absolutely necessary. Best practices dictate only one class per element but it is not at all uncommon to see multiple classes per element. Just don't go crazy with this if this is a new concept to you.</p>
+
+
+<h6>style.less and style.scss</h6>
+
+<p>This file imports all of the styles besides your custom styles. The order of imports in these files is very important as each file may depend on variables or mixins defined in the previous file. Add your styles below the first set of imports (as indicated in the file) but not before the last set of imports for print and mobile styles.
+
+If using a compiler, you only need to compile the style.* file as your compiler should import and compile all included files into a single style.css file. If you're using plain CSS it's best to avoid all the @import statements and copy and paste each file into style.css manually to avoid too many HTTP requests slowing down your site.</p>
