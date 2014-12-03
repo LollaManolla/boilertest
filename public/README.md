@@ -63,9 +63,9 @@ Place JS files here.
 <p><strong>Scss</strong></p>
 Write SCSS here. 
 
-<strong>Files marked with bold should not be changed. </strong>
-  They hold just functions,  not <strong>settings and settings options </strong> for framework. 
-  These options <strong>are in </strong> file <code>_settings.scss</code>
+<p><strong>Files marked with bold should not be changed. </strong><br>
+  They hold just functions,  not <strong>settings and settings options </strong> for framework. <br>
+  These options <strong>are in </strong> file <code>_settings.scss</code></p>
 
 <h6>What can you change in  _settings.scss?</h6>
 
@@ -106,7 +106,7 @@ block-grid elements, default spacing, align to grid.
 </li>
 </ol>
 
-<h2>Styles to follow</h2>
+<h2>Guidelines</h2>
 
 <h3>How you should write SCSS?</h3>
 * set grid
