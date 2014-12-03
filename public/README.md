@@ -1,6 +1,8 @@
 Info
 ==========
 
+Here you can write your SCSS and change or set some preferences.
+
 <h3>Default settings - where can you change it</h3>
 
 <pre><code>
