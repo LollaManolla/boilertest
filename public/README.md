@@ -121,32 +121,15 @@ For better responsiveness use units like this:
 - <strong>REM for</strong>: fonts, line height
 - <strong>PX for</strong>: margins, paddings
 
-
-
-
-
-## media can have values
-* @media #{$small-only} {}
-* @media #{$medium-only} {}
-* @media #{$large-only} {}
-* @media #{$small-up} {}
-* @media #{$medium-up} {}
-* @media #{$large-up} {}
-
-## media object 
-  <article class="media-small review">
-    <div class="media-small__item"> <a href="#">img,video..</a> </div>
-       <div class="media-small__body "></div>
-  </article>
+<h4>Naming convention</h4>
+use <a href="http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/">BEM </a>
 
 ## titles, headings
 * section-title
 * title
 * subtitle
 
-## Margins, paddings
-* 35px large divide
-* 15 px small divide
+
 
 ## Naming convention for classes and ID-s
 * We use BEM (block element modifier) classes and ID-s naming convention
