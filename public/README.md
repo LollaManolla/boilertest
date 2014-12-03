@@ -123,12 +123,12 @@ For better responsiveness use units like this:
 
 <h4>Naming convention</h4>
 - use <a href="http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/" target="_blank">BEM syntax </a> <br>
-       .block__element--modifier
+       <small>.block__element--modifier</small>
 - avoid too long classes and ID-s <br>
-       use <code>b-search</code> instead of block-search
+       <strong>use <code>b-search</code> instead of block-search</strong>
 - block, element or modifier consisted from more than one word, e.g:search block, big button, light green<br>
    use rule of single dash
-       search-block__big-button--light-green
+       <em>search-block__big-button--light-green</em>
 
 ## titles, headings
 * section-title
