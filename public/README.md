@@ -129,7 +129,7 @@ For better responsiveness use units like this:
 - block, element or modifier consisted from more than one word, e.g:search block, big button, light green<br>
    use rule of single dash<br>
        <code>search-block__big-button--light-green</code>
-- titles and headings usually can be named 
+- titles and headings usually can be named <br>
        <code>section-title</code><br>
        <code>title</code><br>
        <code>subtitle</code><br>
