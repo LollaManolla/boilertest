@@ -122,7 +122,7 @@ For better responsiveness use units like this:
 - <strong>PX for</strong>: margins, paddings
 
 <h4>Naming convention</h4>
-- use <a href="http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/" target="_blank">BEM </a>  .block__element--modifier
+- use <a href="http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/" target="_blank">BEM syntax </a> [.block__element--modifier]
 - avoid too long classes and ID-s: use <code>b-search</code> instead of block-search
 
 ## titles, headings
