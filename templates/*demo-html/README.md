@@ -1,7 +1,7 @@
 Info
 ==========
 
-<h3>Default settings - where can you change it</h3>
+Here you can write your SCSS and change or set some preferences.
 
 <pre><code>
   assets/
@@ -50,9 +50,22 @@ Info
     style-en.scss
 </code></pre>
 
-<p><strong>Files marked with bold should not be changed. </strong>They hold just functions,  not <strong>settings and settings options </strong> for framework. These options <strong>are in </strong> file <code>_settings.scss</code></p>
+<p><strong>Assets</strong></p>
+This folder is for compiled scss and images. 
 
+<hr>
 
+<p><strong>Assets</strong></p>
+Place JS files here. 
+
+<hr>
+
+<p><strong>Scss</strong></p>
+Write SCSS here. 
+
+<p><strong>Files marked with bold should not be changed. </strong><br>
+  They hold just functions,  not <strong>settings and settings options </strong> for framework. <br>
+  These options <strong>are in </strong> file <code>_settings.scss</code></p>
 
 <h6>What can you change in  _settings.scss?</h6>
 
@@ -92,6 +105,19 @@ block-grid elements, default spacing, align to grid.
 </blockquote>
 </li>
 </ol>
+
+<h2>Guidelines</h2>
+
+<h4>SCSS</h4>
+When writing SCSS follow this order:
+<ol>
+<li>set grid</li>
+<li>set visibility</li>
+<li>set style</li>
+<li>set media </li>
+</ol>
+
+
 
 
 
