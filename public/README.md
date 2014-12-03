@@ -117,11 +117,11 @@ When writing SCSS follow this order:
 <li>set media </li>
 </ol>
 
+For better responsiveness use units like this:
+- <strong>REM for</strong>: fonts, line height
+- <strong>PX for</strong>: margins, paddings
 
 
-<h3>How you should use units?</h3>
-* <strong>REM</strong>: fonts, line height
-* <strong>PX</strong>: margins, paddings
 
 
 
