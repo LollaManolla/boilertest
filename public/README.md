@@ -50,9 +50,12 @@ Here you can write your SCSS and change or set some preferences.
     style-en.scss
 </code></pre>
 
+<p><strong>Assets</strong></p>
+In this folder you can place compiled css and images. Large, medium and small folders inside of images are optional. You can erase them if you don't need to use different images across devices.
+
+<hr>
+
 <p><strong>Files marked with bold should not be changed. </strong>They hold just functions,  not <strong>settings and settings options </strong> for framework. These options <strong>are in </strong> file <code>_settings.scss</code></p>
-
-
 
 <h6>What can you change in  _settings.scss?</h6>
 
