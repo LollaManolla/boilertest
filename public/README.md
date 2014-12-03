@@ -3,8 +3,6 @@ Info
 
 Here you can write your SCSS and change or set some preferences.
 
-<h4>Default settings - where can you change it</h4>
-
 <pre><code>
   assets/
     css
