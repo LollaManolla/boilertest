@@ -63,8 +63,6 @@ Place JS files here.
 <p><strong>Scss</strong></p>
 Write SCSS here. 
 
-<hr>
-
 <p><strong>Files marked with bold should not be changed. </strong>They hold just functions,  not <strong>settings and settings options </strong> for framework. These options <strong>are in </strong> file <code>_settings.scss</code></p>
 
 <h6>What can you change in  _settings.scss?</h6>
