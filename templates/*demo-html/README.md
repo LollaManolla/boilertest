@@ -107,7 +107,7 @@ block-grid elements, default spacing, align to grid.
 </ol>
 
 
-<h1>Default classes</h1>
+
 <h2>Grid</h2>
 <p>
 Start by adding an element with a class of row. This will create a horizontal block to contain vertical columns. Then add divs with a column class within that row. You can use column or columns - the only difference is grammar. Specify the widths of each column with the small-#, medium-#, and large-# classes.</p>
