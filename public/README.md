@@ -122,7 +122,7 @@ For better responsiveness use units like this:
 - <strong>PX for</strong>: margins, paddings
 
 <h4>Naming convention</h4>
-use <a href="http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/">BEM </a>
+use <a href="http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/" target="_blank">BEM </a>
 
 ## titles, headings
 * section-title
