@@ -108,11 +108,16 @@ block-grid elements, default spacing, align to grid.
 
 <h2>Guidelines</h2>
 
-<h3>How you should write SCSS?</h3>
-* set grid
-* set visibility
-* set style
-* set media 
+<h4>SCSS</h4>
+When writing SCSS follow this order:
+<ol>
+<li>set grid</li>
+<li>set visibility</li>
+<li>set style</li>
+<li>set media </li>
+</ol>
+
+
 
 <h3>How you should use units?</h3>
 * <strong>REM</strong>: fonts, line height
