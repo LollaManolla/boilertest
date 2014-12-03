@@ -15,7 +15,7 @@ Diwanee framework
 - Pagination
 - Visibility Classes
 - HTML5 starting point
-- Various optimizations and goodies (robots.txt, humans.txt, .htaccess, crossdomain policy, etc.)
+- Various optimizations and goodies (robots.txt,  .htaccess )
 - Various JS files for faster browsing and better optimization
  
 
