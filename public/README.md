@@ -122,7 +122,8 @@ For better responsiveness use units like this:
 - <strong>PX for</strong>: margins, paddings
 
 <h4>Naming convention</h4>
-use <a href="http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/" target="_blank">BEM </a> (.block__element--modifier)
+use <a href="http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/" target="_blank">BEM </a>  .block__element--modifier
+avoid too long classes and ID-s: use <code>b-search</code> instead of block-search
 
 ## titles, headings
 * section-title
@@ -131,14 +132,9 @@ use <a href="http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-
 
 
 
-## Naming convention for classes and ID-s
 
-* Classes and ID-s looks like  
-.block__element—-modifier (if any modifier). Example With and without modifier:  .block__element or .block__element—modifier
-* We always use double underscore line for dividing block and element  and double dash line for dividing element and modifier
 * If any name of block, element or modifier needs to be consisted from more than one word we use rule of single dash.
 - for block we use single dash
 - for element we use single dash
 - for modifier we use single dash
 * EXAMPLE: .search-block__big-button—-light-green
-* IMPORTANT: to avoid too long classes and ID-s as a best practice we use shorter descriptions for elements and modifiers and for blocks we use, for example instead block-search -> b-search
