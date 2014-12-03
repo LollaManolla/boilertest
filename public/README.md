@@ -51,7 +51,17 @@ Here you can write your SCSS and change or set some preferences.
 </code></pre>
 
 <p><strong>Assets</strong></p>
-In this folder you can place compiled css and images. Large, medium and small folders inside of images are optional. You can erase them if you don't need to use different images across devices.
+This folder is for compiled scss and images. 
+
+<hr>
+
+<p><strong>Assets</strong></p>
+Place JS files here. 
+
+<hr>
+
+<p><strong>Scss</strong></p>
+Write SCSS here. 
 
 <hr>
 
