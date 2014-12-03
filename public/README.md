@@ -122,19 +122,15 @@ For better responsiveness use units like this:
 - <strong>PX for</strong>: margins, paddings
 
 <h4>Naming convention</h4>
-- use <a href="http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/" target="_blank">BEM syntax </a> [.block__element--modifier]
-- avoid too long classes and ID-s [<code>b-search</code> instead of block-search]
+- use <a href="http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/" target="_blank">BEM syntax </a> <br>
+      [.block__element--modifier]
+- avoid too long classes and ID-s <br>
+     [use <code>b-search</code> instead of block-search]
+- block, element or modifier consisted from more than one word, e.g:search block, big button, light green, use rule of single dash
+    [search-block__big-button--light-green]
 
 ## titles, headings
 * section-title
 * title
 * subtitle
 
-
-
-
-* If any name of block, element or modifier needs to be consisted from more than one word we use rule of single dash.
-- for block we use single dash
-- for element we use single dash
-- for modifier we use single dash
-* EXAMPLE: .search-block__big-button—-light-green
