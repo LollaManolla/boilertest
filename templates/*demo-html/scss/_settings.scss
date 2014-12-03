@@ -50,11 +50,12 @@ $column-gutter: rem-calc(30);
 
 // We use these to define default font stacks
 // If we need to define different fonts for languages, we will do it in style-ar and style-en
-$body-font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+$body-font-family: Helvetica, Roboto, Arial, sans-serif;
 
 //We use this to define site colors
 $white       : #FFFFFF;
 $black       : #000000;
+$red          : #f30728;
 
 // We use these as default colors throughout
 $alert-color: #f04124;
@@ -163,8 +164,8 @@ $paragraph-text-rendering: optimizeLegibility;
 // We use these to style anchors
 $anchor-text-decoration: none;
 $anchor-text-decoration-hover: none;
-$anchor-font-color: scale-color($black, $alpha: -35%);
-$anchor-font-color-hover: scale-color($black, $lightness: -14%);
+$anchor-font-color: scale-color($red, $alpha: 35%);
+$anchor-font-color-hover: scale-color($red, $lightness: -44%);
 
 // We use these to style the <hr> element
 $hr-border-width: 1px;
@@ -212,7 +213,7 @@ $pagination-margin: rem-calc(-5);
 // We use these to set the list-item properties
 $pagination-li-height: rem-calc(24);
 $pagination-li-font-color: $black;
-$pagination-li-font-size: rem-calc(14);
+$pagination-li-font-size: rem-calc(12);
 $pagination-li-margin: rem-calc(5);
 
 // We use these for the pagination anchor links
